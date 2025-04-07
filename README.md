@@ -1,4 +1,4 @@
-# Eyeriss‑V1 CNN Hardware Accelerator (Verilog)
+![eye sch](https://github.com/user-attachments/assets/1208e246-d12f-4a1e-91f0-c6fa8be014fe)# Eyeriss‑V1 CNN Hardware Accelerator (Verilog)
 
 This repository hosts the complete Verilog source code for a fully functioning CNN hardware accelerator based on the [Eyeriss‑V1](https://eyeriss.mit.edu/) architecture. Eyeriss‑V1 is a pioneering, energy‑efficient accelerator design that implements a row‑stationary dataflow to optimize data movement and maximize reuse during deep neural network processing.
 
@@ -19,12 +19,14 @@ This repository hosts the complete Verilog source code for a fully functioning C
 
 Below are the official images from the Eyeriss project:
 
-![Eyeriss Architecture](images/eyeriss_architecture.png)
+![eye sch](https://github.com/user-attachments/assets/f94fec49-32cc-4c6f-b5d2-9161046dfbfd)
 *Figure 1: Eyeriss‑V1 Architecture Overview*
 
-![Chip Die Photo](images/eyeriss_die_photo.png)
+![eye ker](https://github.com/user-attachments/assets/fb4c5d84-aae7-4b22-b1ee-e507d4834212)
 *Figure 2: Eyeriss‑V1 Chip Die Photo*
 
+![eye dist](https://github.com/user-attachments/assets/bf042deb-7c5e-4a25-9af0-213d18004e87)
+*Figure 3: Eyeriss‑V1 input and filter distribution among cores *
 *Note: These images are provided for reference and are sourced from the original Eyeriss project at MIT.*
 
 ## Getting Started
